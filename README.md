@@ -13,7 +13,6 @@ Currently crafting web experiences with **Vue**, **React**, **Tailwind CSS**, an
 - 🟢 Vue
 - 🎨 Tailwind CSS
 - 💅 Figma, Adobe Photoshop
-- 
 ---
 
 ## 🌍 Languages
