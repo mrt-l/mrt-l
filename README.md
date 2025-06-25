@@ -26,7 +26,7 @@ Currently crafting web experiences with **Vue**, **React**, **Tailwind CSS**, an
 ## 🌍 Languages
 
 - 🗣️ **Turkish** (native)
-- 🇩🇪 **German** (fluent)
+- 🇩🇪 **German** (native)
 - 🇬🇧 **English** (fluent)
 - 🇮🇹 **Italian** (basic)
 
