@@ -1,7 +1,13 @@
 # Hi there 👋 I'm Mert
 
-I'm a **Frontend Developer & UI/UX Designer** passionate about building beautiful, responsive websites and intuitive user interfaces.  
-Currently crafting web experiences with **Vue**, **React**, **Tailwind CSS**, and **Figma** — and always exploring new tools and ideas.
+I'm a **Frontend Developer & UI/UX Designer** who loves turning ideas into **fast, modern web experiences**.  
+I build interfaces that are **not only beautiful but intuitive**, blending design and code seamlessly.  
+
+Currently, I'm deep into **Next.js** and **React**, experimenting with **Tailwind CSS** to create responsive layouts and **Figma** to craft smooth user flows.  
+I thrive on solving complex problems, exploring new web technologies, and pushing projects from **concept to pixel-perfect reality**.  
+
+Beyond code, I’m always curious—learning backend tools, exploring APIs, and finding smarter ways to optimize web performance.  
+I’m open to **collaborations, freelance projects**, or just geeking out about the latest in web design and frontend development.  
 
 ---
 
